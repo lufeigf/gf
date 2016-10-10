@@ -1,0 +1,29 @@
+{
+  "name": "gf",
+  "version": "0.0.1",
+  "description": "my name",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lufeigf/gf.git"
+  },
+  "keywords": [
+    "gf"
+  ],
+  "author": "gf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lufeigf/gf/issues"
+  },
+  "homepage": "https://github.com/lufeigf/gf#readme",
+  "devDependencies": {
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-imagemin": "^3.0.3",
+    "gulp-stylus": "^2.5.0",
+    "gulp-uglify": "^2.0.0"
+  }
+}
